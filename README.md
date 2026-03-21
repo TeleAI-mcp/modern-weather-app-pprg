@@ -1,2 +1,3 @@
-# modern-weather-app-pprg
+# Modern Weather App Pprg
+
 A weather forecasting application for modern development workflows.
